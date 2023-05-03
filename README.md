@@ -1,2 +1,3 @@
-# scilab-
+# scilab
+
 some scilab scripts
